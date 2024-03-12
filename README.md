@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haricodecraft
-- 👀 I’m interested in AI, ML, Linux
+- 👀 I’m interested in Python, AI, ML, Linux
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me haricodecraft@gmail.com
